@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MOC Contact Clock</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <button id="settingsToggle" class="settings-toggle" type="button" aria-expanded="false" aria-controls="settingsPanel">Filters</button>
+  <div id="settingsBackdrop" class="settings-backdrop"></div>
+  <aside id="settingsPanel" class="settings-panel" aria-hidden="true">
+    <div class="settings-header">
+      <div class="settings-title">Pass Filters</div>
+      <button id="settingsClose" class="settings-close" type="button">Close</button>
+    </div>
+    <section class="settings-section">
+      <div class="settings-section-header">
+        <div class="settings-section-title">Mission</div>
+        <div class="settings-actions">
+          <button class="settings-action" type="button" data-group="mission" data-action="all">All</button>
+          <button class="settings-action" type="button" data-group="mission" data-action="none">None</button>
+        </div>
+      </div>
+      <div id="missionOptions" class="settings-options"></div>
+    </section>
+    <section class="settings-section">
+      <div class="settings-section-header">
+        <div class="settings-section-title">Station</div>
+        <div class="settings-actions">
+          <button class="settings-action" type="button" data-group="station" data-action="all">All</button>
+          <button class="settings-action" type="button" data-group="station" data-action="none">None</button>
+        </div>
+      </div>
+      <div id="stationOptions" class="settings-options"></div>
+    </section>
+    <section class="settings-section">
+      <div class="settings-section-header">
+        <div class="settings-section-title">Deleted Passes</div>
+      </div>
+      <label class="settings-option">
+        <input id="deletedToggle" type="checkbox">
+        <span>Show deleted passes</span>
+      </label>
+    </section>
+    <section class="settings-section">
+      <div class="settings-section-header">
+        <div class="settings-section-title">Pass Data</div>
+      </div>
+      <button id="reloadButton" class="settings-action" type="button">Reload pass files</button>
+      <div id="reloadStatus" class="settings-footnote"></div>
+    </section>
+    <div class="settings-footnote">Leaf Space passes are grouped as a single station in this filter panel, regardless of the station name stored in the source file.</div>
+  </aside>
+  <main class="app">
+    <section id="topFrame" class="top-frame"></section>
+    <section class="time-frame">
+      <div id="localLabel" class="clock-label"></div>
+      <div id="utcLabel" class="clock-label right"></div>
+    </section>
+    <section class="main-frame">
+      <div id="nextPanel" class="main-card"></div>
+      <div id="detailPanel" class="main-card"></div>
+    </section>
+    <section class="timeline-wrap">
+      <div class="timeline-panel">
+        <canvas id="timelineCanvas"></canvas>
+      </div>
+    </section>
+    <section class="table-outer">
+      <div id="tableBox" class="table-box">
+        <div id="tableLines" class="table-lines"></div>
+      </div>
+    </section>
+  </main>
+  <script>
+    window.MOC_CLOCK_CONFIG = {"mode":"static","stateUrl":"schedule.json","reloadEnabled":false};
+  </script>
+  <script src="app.js"></script>
+</body>
+</html>
