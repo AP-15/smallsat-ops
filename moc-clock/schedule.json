@@ -1,10 +1,10 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-09-21T01:10:58.240813+00:00",
+  "server_now": "2026-09-21T01:12:59.094193+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
-      "AEPEX"
+      "CANVAS"
     ],
     "stations": [
       "XXXXXX"
@@ -13,29 +13,29 @@
   },
   "events": [
     {
-      "spacecraft": "AEPEX",
+      "spacecraft": "CANVAS",
       "groundstation": "XXXXXX",
       "station_code": "XXXXXX",
       "station_mode": "XXXXXX UHF",
       "filter_station": "XXXXXX",
-      "aos": "2026-09-21T03:00:00+00:00",
-      "los": "2026-09-21T03:08:00+00:00",
-      "aos_doy": "2026/264-03:00:00",
-      "los_doy": "2026/264-03:08:00",
-      "aos_time": "03:00:00",
-      "los_time": "03:08:00",
-      "aos_mt": "21:00:00",
+      "aos": "2026-09-21T04:00:00+00:00",
+      "los": "2026-09-21T04:09:00+00:00",
+      "aos_doy": "2026/264-04:00:00",
+      "los_doy": "2026/264-04:09:00",
+      "aos_time": "04:00:00",
+      "los_time": "04:09:00",
+      "aos_mt": "22:00:00",
       "doy": "2026/264",
-      "duration_min": "8.0 min",
-      "peak_elevation": "40.0\u00b0",
-      "az_path": "E\u2192W",
+      "duration_min": "9.0 min",
+      "peak_elevation": "33.0\u00b0",
+      "az_path": "SE\u2192SW",
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#F08080",
-      "source_file": "moc_clock_nested_publish_XXXXXX.csv",
+      "color": "#87CEFA",
+      "source_file": "moc_clock_nested_publish2_XXXXXX.csv",
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-09-21T01:10:58+00:00"
+  "published_at": "2026-09-21T01:12:59+00:00"
 }

@@ -1,2 +1,2 @@
 spacecraft,groundstation,station_code,station_mode,filter_station,aos,los,aos_doy,los_doy,aos_time,los_time,aos_mt,doy,duration_min,peak_elevation,az_path,in_sun,mode,deleted,color,source_file,is_leafspace
-AEPEX,XXXXXX,XXXXXX,XXXXXX UHF,XXXXXX,2026-09-21T03:00:00+00:00,2026-09-21T03:08:00+00:00,2026/264-03:00:00,2026/264-03:08:00,03:00:00,03:08:00,21:00:00,2026/264,8.0 min,40.0°,E→W,YES,UHF,False,#F08080,moc_clock_nested_publish_XXXXXX.csv,False
+CANVAS,XXXXXX,XXXXXX,XXXXXX UHF,XXXXXX,2026-09-21T04:00:00+00:00,2026-09-21T04:09:00+00:00,2026/264-04:00:00,2026/264-04:09:00,04:00:00,04:09:00,22:00:00,2026/264,9.0 min,33.0°,SE→SW,YES,UHF,False,#87CEFA,moc_clock_nested_publish2_XXXXXX.csv,False
