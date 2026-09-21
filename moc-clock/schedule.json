@@ -1,11 +1,10 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-09-21T01:00:11.951850+00:00",
+  "server_now": "2026-09-21T01:10:58.240813+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
-      "AEPEX",
-      "COSMO"
+      "AEPEX"
     ],
     "stations": [
       "XXXXXX"
@@ -19,48 +18,24 @@
       "station_code": "XXXXXX",
       "station_mode": "XXXXXX UHF",
       "filter_station": "XXXXXX",
-      "aos": "2026-09-21T01:00:00+00:00",
-      "los": "2026-09-21T01:10:00+00:00",
-      "aos_doy": "2026/264-01:00:00",
-      "los_doy": "2026/264-01:10:00",
-      "aos_time": "01:00:00",
-      "los_time": "01:10:00",
-      "aos_mt": "19:00:00",
+      "aos": "2026-09-21T03:00:00+00:00",
+      "los": "2026-09-21T03:08:00+00:00",
+      "aos_doy": "2026/264-03:00:00",
+      "los_doy": "2026/264-03:08:00",
+      "aos_time": "03:00:00",
+      "los_time": "03:08:00",
+      "aos_mt": "21:00:00",
       "doy": "2026/264",
-      "duration_min": "10.0 min",
-      "peak_elevation": "45.0\u00b0",
+      "duration_min": "8.0 min",
+      "peak_elevation": "40.0\u00b0",
       "az_path": "E\u2192W",
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
       "color": "#F08080",
-      "source_file": "moc_clock_publish_real_XXXXXX.csv",
-      "is_leafspace": false
-    },
-    {
-      "spacecraft": "COSMO",
-      "groundstation": "XXXXXX",
-      "station_code": "XXXXXX",
-      "station_mode": "XXXXXX UHF+SBD",
-      "filter_station": "XXXXXX",
-      "aos": "2026-09-21T02:00:00+00:00",
-      "los": "2026-09-21T02:11:00+00:00",
-      "aos_doy": "2026/264-02:00:00",
-      "los_doy": "2026/264-02:11:00",
-      "aos_time": "02:00:00",
-      "los_time": "02:11:00",
-      "aos_mt": "20:00:00",
-      "doy": "2026/264",
-      "duration_min": "11.0 min",
-      "peak_elevation": "52.0\u00b0",
-      "az_path": "E\u2192W",
-      "in_sun": "NO",
-      "mode": "UHF+SBD",
-      "deleted": false,
-      "color": "#DDA0DD",
-      "source_file": "moc_clock_publish_real_XXXXXX.csv",
+      "source_file": "moc_clock_nested_publish_XXXXXX.csv",
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-09-21T01:00:12+00:00"
+  "published_at": "2026-09-21T01:10:58+00:00"
 }
