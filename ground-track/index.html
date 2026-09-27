@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ground Track Visualizer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="loading">Loading map data&hellip;</div>
+
+<div id="statusbar">
+  <span class="ts" id="ts-display">--</span>
+  <span id="sat-count-display"></span>
+</div>
+
+<button id="panel-toggle" title="Toggle settings">&#9881; Settings</button>
+
+<div id="settings-panel">
+  <h2>&#9881; Display Settings</h2>
+  <h3>Labels</h3>
+  <div class="label-size-row">
+    <label for="label-size-input">Font size</label>
+    <button id="label-size-dec" type="button" title="Decrease font size">-</button>
+    <input id="label-size-input" type="number" min="8" max="50" step="1" value="10">
+    <button id="label-size-inc" type="button" title="Increase font size">+</button>
+    <span id="label-size-value">10px</span>
+  </div>
+  <h3>Day / Night Overlay</h3>
+  <div class="overlay-row">
+    <input id="day-night-visible" type="checkbox" checked>
+    <label for="day-night-visible">Show overlay</label>
+    <span class="spacer"></span>
+  </div>
+  <div class="overlay-row with-divider">
+    <label for="day-night-opacity">Opacity</label>
+    <input id="day-night-opacity" type="range" min="0" max="100" step="1" value="100">
+    <span id="day-night-opacity-value">100%</span>
+  </div>
+  <h3>Satellites</h3>
+  <div id="sat-controls"></div>
+  <h3>Ground Stations</h3>
+  <div id="gs-controls"></div>
+</div>
+
+<div id="map-container">
+  <svg id="map"></svg>
+</div>
+
+<script>
+window.GROUND_TRACK_CONFIG = {"mode":"static","maskUrl":"mask.json","worldDataUrl":"assets/countries-110m.json","updateMs":10000};
+</script>
+<script src="assets/d3.min.js"></script>
+<script src="assets/topojson-client.min.js"></script>
+<script src="assets/solar-calculator.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
