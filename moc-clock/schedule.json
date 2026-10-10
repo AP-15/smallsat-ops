@@ -1,6 +1,6 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-10-09T03:52:57.676593+00:00",
+  "server_now": "2026-10-10T20:02:18.789753+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
@@ -17,102 +17,6 @@
     "show_deleted_default": true
   },
   "events": [
-    {
-      "spacecraft": "COSMO",
-      "groundstation": "CL01-05",
-      "station_code": "CL01-05",
-      "station_mode": "CL01-05 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-07T19:47:50.070000+00:00",
-      "los": "2026-10-07T19:57:14.122000+00:00",
-      "aos_doy": "2026/280-19:47:50",
-      "los_doy": "2026/280-19:57:14",
-      "aos_time": "19:47:50",
-      "los_time": "19:57:14",
-      "aos_mt": "13:47:50",
-      "doy": "2026/280",
-      "duration_min": "9.4 min",
-      "peak_elevation": "62.5\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
-      "spacecraft": "COSMO",
-      "groundstation": "CL01-01",
-      "station_code": "CL01-01",
-      "station_mode": "CL01-01 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-07T21:22:16.121000+00:00",
-      "los": "2026-10-07T21:29:45.945000+00:00",
-      "aos_doy": "2026/280-21:22:16",
-      "los_doy": "2026/280-21:29:45",
-      "aos_time": "21:22:16",
-      "los_time": "21:29:45",
-      "aos_mt": "15:22:16",
-      "doy": "2026/280",
-      "duration_min": "7.5 min",
-      "peak_elevation": "17.0\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
-      "spacecraft": "COSMO",
-      "groundstation": "CL01-04",
-      "station_code": "CL01-04",
-      "station_mode": "CL01-04 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-08T19:30:05.427000+00:00",
-      "los": "2026-10-08T19:39:13.819000+00:00",
-      "aos_doy": "2026/281-19:30:05",
-      "los_doy": "2026/281-19:39:13",
-      "aos_time": "19:30:05",
-      "los_time": "19:39:13",
-      "aos_mt": "13:30:05",
-      "doy": "2026/281",
-      "duration_min": "9.1 min",
-      "peak_elevation": "40.2\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
-      "spacecraft": "COSMO",
-      "groundstation": "CL01-01",
-      "station_code": "CL01-01",
-      "station_mode": "CL01-01 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-08T21:04:12.822000+00:00",
-      "los": "2026-10-08T21:12:30.116000+00:00",
-      "aos_doy": "2026/281-21:04:12",
-      "los_doy": "2026/281-21:12:30",
-      "aos_time": "21:04:12",
-      "los_time": "21:12:30",
-      "aos_mt": "15:04:12",
-      "doy": "2026/281",
-      "duration_min": "8.3 min",
-      "peak_elevation": "23.5\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
     {
       "spacecraft": "SPRITE",
       "groundstation": "FAIRBANKS",
@@ -133,7 +37,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -229,7 +133,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -277,7 +181,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -325,7 +229,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -373,7 +277,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -445,7 +349,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -805,7 +709,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -949,7 +853,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1031,8 +935,8 @@
       "station_code": "CL01-04",
       "station_mode": "CL01-04 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-09T19:12:24.390000+00:00",
-      "los": "2026-10-09T19:21:02.866000+00:00",
+      "aos": "2026-10-09T19:12:24.079000+00:00",
+      "los": "2026-10-09T19:21:02.581000+00:00",
       "aos_doy": "2026/282-19:12:24",
       "los_doy": "2026/282-19:21:02",
       "aos_time": "19:12:24",
@@ -1117,7 +1021,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1247,12 +1151,12 @@
       "station_code": "CL01-01",
       "station_mode": "CL01-01 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-09T20:46:12.747000+00:00",
-      "los": "2026-10-09T20:55:04.229000+00:00",
+      "aos": "2026-10-09T20:46:12.393000+00:00",
+      "los": "2026-10-09T20:55:03.938000+00:00",
       "aos_doy": "2026/282-20:46:12",
-      "los_doy": "2026/282-20:55:04",
+      "los_doy": "2026/282-20:55:03",
       "aos_time": "20:46:12",
-      "los_time": "20:55:04",
+      "los_time": "20:55:03",
       "aos_mt": "14:46:12",
       "doy": "2026/282",
       "duration_min": "8.9 min",
@@ -1309,7 +1213,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1477,7 +1381,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1621,7 +1525,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1741,7 +1645,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1813,7 +1717,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1847,8 +1751,8 @@
       "station_code": "IS01-05",
       "station_mode": "IS01-05 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-10T03:50:28.710000+00:00",
-      "los": "2026-10-10T03:58:54.917000+00:00",
+      "aos": "2026-10-10T03:50:28.322000+00:00",
+      "los": "2026-10-10T03:58:54.429000+00:00",
       "aos_doy": "2026/283-03:50:28",
       "los_doy": "2026/283-03:58:54",
       "aos_time": "03:50:28",
@@ -1885,7 +1789,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1933,7 +1837,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -1981,7 +1885,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -2053,7 +1957,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -2437,7 +2341,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -2581,7 +2485,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -2725,7 +2629,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -2879,13 +2783,13 @@
       "station_code": "CL01-02",
       "station_mode": "CL01-02 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-10T20:28:15.150000+00:00",
-      "los": "2026-10-10T20:37:29.006000+00:00",
-      "aos_doy": "2026/283-20:28:15",
-      "los_doy": "2026/283-20:37:29",
-      "aos_time": "20:28:15",
-      "los_time": "20:37:29",
-      "aos_mt": "14:28:15",
+      "aos": "2026-10-10T20:28:14.111000+00:00",
+      "los": "2026-10-10T20:37:28.071000+00:00",
+      "aos_doy": "2026/283-20:28:14",
+      "los_doy": "2026/283-20:37:28",
+      "aos_time": "20:28:14",
+      "los_time": "20:37:28",
+      "aos_mt": "14:28:14",
       "doy": "2026/283",
       "duration_min": "9.2 min",
       "peak_elevation": "49.5\u00b0",
@@ -2917,7 +2821,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3085,7 +2989,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3253,7 +3157,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3349,7 +3253,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3445,7 +3349,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3455,13 +3359,13 @@
       "station_code": "IS01-05",
       "station_mode": "IS01-05 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-11T03:32:42.565000+00:00",
-      "los": "2026-10-11T03:40:37.012000+00:00",
-      "aos_doy": "2026/284-03:32:42",
-      "los_doy": "2026/284-03:40:37",
-      "aos_time": "03:32:42",
-      "los_time": "03:40:37",
-      "aos_mt": "21:32:42",
+      "aos": "2026-10-11T03:32:41.445000+00:00",
+      "los": "2026-10-11T03:40:35.664000+00:00",
+      "aos_doy": "2026/284-03:32:41",
+      "los_doy": "2026/284-03:40:35",
+      "aos_time": "03:32:41",
+      "los_time": "03:40:35",
+      "aos_mt": "21:32:41",
       "doy": "2026/284",
       "duration_min": "7.9 min",
       "peak_elevation": "19.6\u00b0",
@@ -3493,7 +3397,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3541,7 +3445,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3589,7 +3493,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -3661,7 +3565,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4141,7 +4045,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4285,7 +4189,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4415,16 +4319,16 @@
       "station_code": "CL01-01",
       "station_mode": "CL01-01 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-11T20:10:19.772000+00:00",
-      "los": "2026-10-11T20:19:44.720000+00:00",
-      "aos_doy": "2026/284-20:10:19",
-      "los_doy": "2026/284-20:19:44",
-      "aos_time": "20:10:19",
-      "los_time": "20:19:44",
-      "aos_mt": "14:10:19",
+      "aos": "2026-10-11T20:10:17.717000+00:00",
+      "los": "2026-10-11T20:19:42.748000+00:00",
+      "aos_doy": "2026/284-20:10:17",
+      "los_doy": "2026/284-20:19:42",
+      "aos_time": "20:10:17",
+      "los_time": "20:19:42",
+      "aos_mt": "14:10:17",
       "doy": "2026/284",
       "duration_min": "9.4 min",
-      "peak_elevation": "76.4\u00b0",
+      "peak_elevation": "76.5\u00b0",
       "az_path": "--\u2192--",
       "in_sun": "YES",
       "mode": "SBD",
@@ -4453,7 +4357,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4621,7 +4525,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4789,7 +4693,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4885,7 +4789,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -4957,7 +4861,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5005,7 +4909,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5053,7 +4957,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5101,7 +5005,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5149,7 +5053,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5605,7 +5509,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5749,7 +5653,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -5850,6 +5754,30 @@
       "is_leafspace": false
     },
     {
+      "spacecraft": "COSMO",
+      "groundstation": "CL01-04",
+      "station_code": "CL01-04",
+      "station_mode": "CL01-04 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-10-12T19:52:23.227000+00:00",
+      "los": "2026-10-12T20:01:47.880000+00:00",
+      "aos_doy": "2026/285-19:52:23",
+      "los_doy": "2026/285-20:01:47",
+      "aos_time": "19:52:23",
+      "los_time": "20:01:47",
+      "aos_mt": "13:52:23",
+      "doy": "2026/285",
+      "duration_min": "9.4 min",
+      "peak_elevation": "69.8\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
       "spacecraft": "SPRITE",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
@@ -5869,7 +5797,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6018,6 +5946,30 @@
       "is_leafspace": false
     },
     {
+      "spacecraft": "COSMO",
+      "groundstation": "CL01-01",
+      "station_code": "CL01-01",
+      "station_mode": "CL01-01 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-10-12T21:26:53.899000+00:00",
+      "los": "2026-10-12T21:34:07.788000+00:00",
+      "aos_doy": "2026/285-21:26:53",
+      "los_doy": "2026/285-21:34:07",
+      "aos_time": "21:26:53",
+      "los_time": "21:34:07",
+      "aos_mt": "15:26:53",
+      "doy": "2026/285",
+      "duration_min": "7.2 min",
+      "peak_elevation": "15.6\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
       "spacecraft": "SPRITE",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
@@ -6037,7 +5989,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6205,7 +6157,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6301,7 +6253,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6373,7 +6325,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6445,7 +6397,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6493,7 +6445,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6541,7 +6493,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6565,7 +6517,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -6637,7 +6589,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7021,7 +6973,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7165,7 +7117,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7266,6 +7218,30 @@
       "is_leafspace": false
     },
     {
+      "spacecraft": "COSMO",
+      "groundstation": "CL01-04",
+      "station_code": "CL01-04",
+      "station_mode": "CL01-04 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-10-13T19:34:31.011000+00:00",
+      "los": "2026-10-13T19:43:43.045000+00:00",
+      "aos_doy": "2026/286-19:34:31",
+      "los_doy": "2026/286-19:43:43",
+      "aos_time": "19:34:31",
+      "los_time": "19:43:43",
+      "aos_mt": "13:34:31",
+      "doy": "2026/286",
+      "duration_min": "9.2 min",
+      "peak_elevation": "44.5\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
       "spacecraft": "SPRITE",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
@@ -7285,7 +7261,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7434,6 +7410,30 @@
       "is_leafspace": false
     },
     {
+      "spacecraft": "COSMO",
+      "groundstation": "CL01-01",
+      "station_code": "CL01-01",
+      "station_mode": "CL01-01 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-10-13T21:08:42.515000+00:00",
+      "los": "2026-10-13T21:16:48.008000+00:00",
+      "aos_doy": "2026/286-21:08:42",
+      "los_doy": "2026/286-21:16:48",
+      "aos_time": "21:08:42",
+      "los_time": "21:16:48",
+      "aos_mt": "15:08:42",
+      "doy": "2026/286",
+      "duration_min": "8.1 min",
+      "peak_elevation": "21.6\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
       "spacecraft": "SPRITE",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
@@ -7453,7 +7453,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7621,7 +7621,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7741,7 +7741,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7813,7 +7813,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7885,7 +7885,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -7933,7 +7933,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -8029,7 +8029,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -8101,7 +8101,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -8509,7 +8509,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -8653,7 +8653,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -8965,7 +8965,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9133,7 +9133,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9277,7 +9277,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9349,7 +9349,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9421,7 +9421,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9469,7 +9469,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9517,7 +9517,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9565,7 +9565,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -9637,7 +9637,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10045,7 +10045,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10189,7 +10189,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10333,7 +10333,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10501,7 +10501,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10669,7 +10669,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10813,7 +10813,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10885,7 +10885,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -10957,7 +10957,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11005,7 +11005,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11053,7 +11053,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11101,7 +11101,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11173,7 +11173,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11581,7 +11581,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11725,7 +11725,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -11869,7 +11869,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12013,7 +12013,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12181,7 +12181,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12325,7 +12325,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12397,7 +12397,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12469,7 +12469,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12493,7 +12493,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12541,7 +12541,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12589,7 +12589,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -12637,7 +12637,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13141,7 +13141,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13285,7 +13285,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13381,7 +13381,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13549,7 +13549,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13693,7 +13693,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13765,7 +13765,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13837,7 +13837,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13909,7 +13909,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -13957,7 +13957,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -14005,7 +14005,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -14029,7 +14029,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -14557,7 +14557,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -14701,7 +14701,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -14797,7 +14797,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -14989,7 +14989,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -15085,7 +15085,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -15157,7 +15157,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -15229,7 +15229,7 @@
       "in_sun": "YES",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -15301,7 +15301,7 @@
       "in_sun": "NO",
       "mode": "UHF",
       "deleted": false,
-      "color": "#2fd23b",
+      "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
     },
@@ -15402,5 +15402,5 @@
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-10-09T03:52:59+00:00"
+  "published_at": "2026-10-10T20:02:21+00:00"
 }
