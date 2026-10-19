@@ -1,6 +1,6 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-10-18T21:48:53.460764+00:00",
+  "server_now": "2026-10-19T06:01:01.476429+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
@@ -13986,5 +13986,5 @@
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-10-18T21:48:56+00:00"
+  "published_at": "2026-10-19T06:01:04+00:00"
 }
