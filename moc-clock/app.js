@@ -240,11 +240,12 @@ function buildDisplayState(snapshot, nowMs) {
       events: windowEvents,
     },
     table: {
-      columns: ['S/C', 'GS', 'DOY', 'AOS (MT)', 'AOS (UTC)', 'LOS (UTC)', 'ELEV', 'AZ', 'IN SUN?'],
-      col_widths: [10, 16, 9, 9, 9, 9, 7, 9, 7],
+      columns: ['S/C', 'ORBIT', 'GS', 'DOY', 'AOS (MT)', 'AOS (UTC)', 'LOS (UTC)', 'ELEV', 'AZ', 'IN SUN?'],
+      col_widths: [10, 7, 16, 9, 9, 9, 9, 7, 9, 7],
       rows: tableEvents.map(event => ({
         cells: [
           event.spacecraft,
+          event.orbit_number,
           event.station_mode,
           event.doy,
           event.aos_mt,

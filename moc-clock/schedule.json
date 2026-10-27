@@ -1,6 +1,6 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-10-27T06:01:01.862158+00:00",
+  "server_now": "2026-10-27T20:18:36.370252+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
@@ -19,54 +19,7 @@
   "events": [
     {
       "spacecraft": "COSMO",
-      "groundstation": "CL01-04",
-      "station_code": "CL01-04",
-      "station_mode": "CL01-04 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-25T19:05:22.581000+00:00",
-      "los": "2026-10-25T19:13:40.299000+00:00",
-      "aos_doy": "2026/298-19:05:22",
-      "los_doy": "2026/298-19:13:40",
-      "aos_time": "19:05:22",
-      "los_time": "19:13:40",
-      "aos_mt": "13:05:22",
-      "doy": "2026/298",
-      "duration_min": "8.3 min",
-      "peak_elevation": "22.8\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
-      "spacecraft": "COSMO",
-      "groundstation": "CL01-01",
-      "station_code": "CL01-01",
-      "station_mode": "CL01-01 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-25T20:39:00.772000+00:00",
-      "los": "2026-10-25T20:47:59.767000+00:00",
-      "aos_doy": "2026/298-20:39:00",
-      "los_doy": "2026/298-20:47:59",
-      "aos_time": "20:39:00",
-      "los_time": "20:47:59",
-      "aos_mt": "14:39:00",
-      "doy": "2026/298",
-      "duration_min": "9.0 min",
-      "peak_elevation": "38.8\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
-      "spacecraft": "COSMO",
+      "orbit_number": "3180",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -91,6 +44,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "369",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -115,6 +69,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3170",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -139,6 +94,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "370",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -163,6 +119,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "370",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -186,31 +143,8 @@
       "is_leafspace": false
     },
     {
-      "spacecraft": "COSMO",
-      "groundstation": "IS01-05",
-      "station_code": "IS01-05",
-      "station_mode": "IS01-05 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-10-26T03:43:12.960000+00:00",
-      "los": "2026-10-26T03:51:28.580000+00:00",
-      "aos_doy": "2026/299-03:43:12",
-      "los_doy": "2026/299-03:51:28",
-      "aos_time": "03:43:12",
-      "los_time": "03:51:28",
-      "aos_mt": "21:43:12",
-      "doy": "2026/299",
-      "duration_min": "8.3 min",
-      "peak_elevation": "22.8\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
       "spacecraft": "SPRITE",
+      "orbit_number": "371",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -235,6 +169,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "371",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -259,6 +194,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "372",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -283,6 +219,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "372",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -307,6 +244,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3080",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -331,6 +269,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "373",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -355,6 +294,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3081",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -379,6 +319,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3184",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -403,6 +344,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3174",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -427,6 +369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "374",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -451,6 +394,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3082",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -475,6 +419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3185",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -499,6 +444,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3185",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -523,6 +469,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3175",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -547,6 +494,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3175",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -571,6 +519,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3186",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -595,6 +544,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3083",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -619,6 +569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3083",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -643,6 +594,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3186",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -667,6 +619,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3176",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -691,6 +644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3176",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -715,6 +669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3187",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -739,6 +694,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3084",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -763,6 +719,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3177",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -787,6 +744,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3084",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -811,6 +769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3188",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -835,6 +794,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3085",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -859,6 +819,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3178",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -883,6 +844,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3085",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -907,6 +869,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3189",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -931,6 +894,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "378",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -955,6 +919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3086",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -979,6 +944,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3179",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1003,6 +969,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3086",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -1027,6 +994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3190",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1051,6 +1019,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "379",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1075,6 +1044,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "379",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -1099,6 +1069,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3180",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1123,6 +1094,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3087",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1147,6 +1119,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3087",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1171,6 +1144,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3191",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1195,6 +1169,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3191",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1219,6 +1194,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3181",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1243,6 +1219,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "380",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1267,6 +1244,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3181",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1291,6 +1269,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "380",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1315,6 +1294,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3088",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1339,12 +1319,13 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "CL01-04",
       "station_code": "CL01-04",
       "station_mode": "CL01-04 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-26T20:20:42.346000+00:00",
-      "los": "2026-10-26T20:29:59.612000+00:00",
+      "aos": "2026-10-26T20:20:42.242000+00:00",
+      "los": "2026-10-26T20:29:59.528000+00:00",
       "aos_doy": "2026/299-20:20:42",
       "los_doy": "2026/299-20:29:59",
       "aos_time": "20:20:42",
@@ -1363,6 +1344,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3192",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1387,6 +1369,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3182",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -1411,6 +1394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3192",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1435,6 +1419,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "381",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1459,6 +1444,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3182",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1483,6 +1469,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3193",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1507,6 +1494,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3193",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1531,6 +1519,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3183",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -1555,6 +1544,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "382",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1579,6 +1569,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3183",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1603,6 +1594,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3194",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1627,6 +1619,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "383",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1651,6 +1644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3184",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1675,6 +1669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3195",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1699,6 +1694,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "384",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1723,6 +1719,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3185",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1747,6 +1744,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "385",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -1771,6 +1769,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "385",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1795,12 +1794,13 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "IS01-05",
       "station_code": "IS01-05",
       "station_mode": "IS01-05 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-27T03:25:06.683000+00:00",
-      "los": "2026-10-27T03:32:45.373000+00:00",
+      "aos": "2026-10-27T03:25:06.591000+00:00",
+      "los": "2026-10-27T03:32:45.249000+00:00",
       "aos_doy": "2026/300-03:25:06",
       "los_doy": "2026/300-03:32:45",
       "aos_time": "03:25:06",
@@ -1819,6 +1819,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "386",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -1843,6 +1844,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "386",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1867,6 +1869,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "387",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -1891,6 +1894,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "387",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -1915,6 +1919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3095",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -1939,6 +1944,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "388",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -1963,6 +1969,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3096",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -1987,6 +1994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3199",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2011,6 +2019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3189",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2035,6 +2044,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "389",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2059,6 +2069,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3097",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -2083,6 +2094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3200",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -2107,6 +2119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3190",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -2131,6 +2144,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3098",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2155,6 +2169,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3098",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2179,6 +2194,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3201",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2203,6 +2219,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3201",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2227,6 +2244,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3191",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2251,6 +2269,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3191",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -2275,6 +2294,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3099",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2299,6 +2319,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3202",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2323,6 +2344,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3099",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2347,6 +2369,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3192",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2371,6 +2394,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3100",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2395,6 +2419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3203",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2419,6 +2444,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3100",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -2443,6 +2469,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3193",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2467,6 +2494,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3101",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2491,6 +2519,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3204",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2515,6 +2544,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3194",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2539,6 +2569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3101",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -2563,6 +2594,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "393",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -2587,6 +2619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3205",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2611,6 +2644,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3102",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2635,6 +2669,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "394",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2659,6 +2694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3195",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2683,6 +2719,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "394",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -2707,6 +2744,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3102",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2731,6 +2769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3206",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2755,6 +2794,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "395",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2779,6 +2819,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3196",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2803,6 +2844,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3103",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2827,6 +2869,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "395",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -2851,17 +2894,18 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "CL01-02",
       "station_code": "CL01-02",
       "station_mode": "CL01-02 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-27T20:02:26.024000+00:00",
-      "los": "2026-10-27T20:11:49.594000+00:00",
-      "aos_doy": "2026/300-20:02:26",
+      "aos": "2026-10-27T20:02:25.936000+00:00",
+      "los": "2026-10-27T20:11:49.551000+00:00",
+      "aos_doy": "2026/300-20:02:25",
       "los_doy": "2026/300-20:11:49",
-      "aos_time": "20:02:26",
+      "aos_time": "20:02:25",
       "los_time": "20:11:49",
-      "aos_mt": "14:02:26",
+      "aos_mt": "14:02:25",
       "doy": "2026/300",
       "duration_min": "9.4 min",
       "peak_elevation": "88.0\u00b0",
@@ -2875,6 +2919,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3207",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -2899,6 +2944,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3197",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -2923,6 +2969,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3207",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -2947,6 +2994,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "396",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2971,6 +3019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3197",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -2995,6 +3044,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3208",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -3019,6 +3069,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3208",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3043,6 +3094,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3198",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -3067,6 +3119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3198",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3091,6 +3144,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "397",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3115,6 +3169,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3209",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3139,6 +3194,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3199",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3163,6 +3219,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "398",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3187,6 +3244,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3210",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3211,6 +3269,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3200",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3235,6 +3294,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "399",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3259,6 +3319,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "400",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -3283,6 +3344,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3211",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3307,6 +3369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "400",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3331,6 +3394,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3201",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3355,6 +3419,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "401",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -3379,6 +3444,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "401",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3403,6 +3469,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "402",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -3427,6 +3494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "402",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3451,6 +3519,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3111",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -3475,6 +3544,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "403",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3499,6 +3569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3112",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -3523,6 +3594,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "404",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3547,6 +3619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3215",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -3571,6 +3644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3205",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -3595,6 +3669,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3113",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3619,6 +3694,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3113",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -3643,6 +3719,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3216",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3667,6 +3744,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3216",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -3691,6 +3769,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3206",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3715,6 +3794,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3206",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -3739,6 +3819,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3114",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3763,6 +3844,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3114",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -3787,6 +3869,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3217",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3811,6 +3894,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3207",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3835,6 +3919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3115",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3859,6 +3944,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3115",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -3883,6 +3969,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3218",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3907,6 +3994,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3208",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -3931,6 +4019,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3116",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -3955,6 +4044,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3116",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -3979,6 +4069,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3219",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4003,6 +4094,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3209",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4027,6 +4119,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "408",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -4051,6 +4144,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3117",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4075,6 +4169,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3220",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4099,6 +4194,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3117",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -4123,6 +4219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3210",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4147,6 +4244,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "409",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -4171,6 +4269,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3118",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4195,6 +4294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3221",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4219,6 +4319,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "410",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4243,6 +4344,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3211",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4267,6 +4369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "410",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -4291,12 +4394,13 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "CL01-04",
       "station_code": "CL01-04",
       "station_mode": "CL01-04 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-28T19:44:12.397000+00:00",
-      "los": "2026-10-28T19:53:30.056000+00:00",
+      "aos": "2026-10-28T19:44:12.334000+00:00",
+      "los": "2026-10-28T19:53:30.041000+00:00",
       "aos_doy": "2026/301-19:44:12",
       "los_doy": "2026/301-19:53:30",
       "aos_time": "19:44:12",
@@ -4315,6 +4419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3222",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -4339,6 +4444,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3212",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -4363,6 +4469,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3222",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4387,6 +4494,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3212",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4411,6 +4519,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "411",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4435,12 +4544,13 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "CL01-05",
       "station_code": "CL01-05",
       "station_mode": "CL01-05 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-28T21:18:32.753000+00:00",
-      "los": "2026-10-28T21:26:09.970000+00:00",
+      "aos": "2026-10-28T21:18:32.682000+00:00",
+      "los": "2026-10-28T21:26:09.965000+00:00",
       "aos_doy": "2026/301-21:18:32",
       "los_doy": "2026/301-21:26:09",
       "aos_time": "21:18:32",
@@ -4459,6 +4569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3223",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -4483,6 +4594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3213",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -4507,6 +4619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3223",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4531,6 +4644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3213",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4555,6 +4669,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "412",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4579,6 +4694,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3224",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4603,6 +4719,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3214",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4627,6 +4744,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "413",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4651,6 +4769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3225",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4675,6 +4794,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3215",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4699,6 +4819,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "414",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4723,6 +4844,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3226",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4747,6 +4869,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "415",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4771,6 +4894,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3216",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4795,6 +4919,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "416",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -4819,6 +4944,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "416",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4843,6 +4969,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "417",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -4867,6 +4994,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "417",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -4891,6 +5019,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3126",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -4915,6 +5044,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "418",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4939,6 +5069,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3127",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -4963,6 +5094,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "419",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -4987,6 +5119,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3230",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -5011,6 +5144,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3220",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -5035,6 +5169,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3128",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5059,6 +5194,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3128",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -5083,6 +5219,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "420",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5107,6 +5244,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3231",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5131,6 +5269,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3231",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -5155,6 +5294,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3221",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5179,6 +5319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3221",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -5203,6 +5344,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3129",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5227,6 +5369,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3129",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -5251,6 +5394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3232",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5275,6 +5419,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3222",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5299,6 +5444,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3130",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5323,6 +5469,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3130",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -5347,6 +5494,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3233",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5371,6 +5519,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3223",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5395,6 +5544,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3131",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5419,6 +5569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3131",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -5443,6 +5594,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3234",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5467,6 +5619,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3224",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5491,6 +5644,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3132",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5515,6 +5669,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3132",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -5539,6 +5694,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3235",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5563,6 +5719,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3225",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5587,6 +5744,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "424",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -5611,6 +5769,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3133",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5635,6 +5794,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3236",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5659,6 +5819,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3226",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5683,6 +5844,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "425",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5707,6 +5869,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "425",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -5731,17 +5894,18 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "CL01-04",
       "station_code": "CL01-04",
       "station_mode": "CL01-04 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-29T19:26:02.009000+00:00",
-      "los": "2026-10-29T19:35:00.346000+00:00",
-      "aos_doy": "2026/302-19:26:02",
+      "aos": "2026-10-29T19:26:01.998000+00:00",
+      "los": "2026-10-29T19:35:00.387000+00:00",
+      "aos_doy": "2026/302-19:26:01",
       "los_doy": "2026/302-19:35:00",
-      "aos_time": "19:26:02",
+      "aos_time": "19:26:01",
       "los_time": "19:35:00",
-      "aos_mt": "13:26:02",
+      "aos_mt": "13:26:01",
       "doy": "2026/302",
       "duration_min": "9.0 min",
       "peak_elevation": "35.9\u00b0",
@@ -5755,6 +5919,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3237",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -5779,6 +5944,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3227",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -5803,6 +5969,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3237",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5827,6 +5994,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3227",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5851,6 +6019,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "426",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5875,12 +6044,13 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
       "groundstation": "CL01-05",
       "station_code": "CL01-05",
       "station_mode": "CL01-05 SBD",
       "filter_station": "LEAF SPACE",
-      "aos": "2026-10-29T21:00:03.116000+00:00",
-      "los": "2026-10-29T21:08:26.004000+00:00",
+      "aos": "2026-10-29T21:00:03.101000+00:00",
+      "los": "2026-10-29T21:08:26.053000+00:00",
       "aos_doy": "2026/302-21:00:03",
       "los_doy": "2026/302-21:08:26",
       "aos_time": "21:00:03",
@@ -5899,6 +6069,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3238",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -5923,6 +6094,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3228",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -5947,6 +6119,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3238",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -5971,6 +6144,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3228",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -5995,6 +6169,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "427",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6019,6 +6194,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3239",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -6043,6 +6219,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3239",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6067,6 +6244,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3229",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -6091,6 +6269,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3229",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6115,6 +6294,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "428",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6139,6 +6319,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3240",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6163,6 +6344,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3230",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6187,6 +6369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "429",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6211,6 +6394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3241",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6235,6 +6419,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3231",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6259,6 +6444,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "430",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6283,6 +6469,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "431",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -6307,6 +6494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "431",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6331,6 +6519,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "432",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -6355,6 +6544,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "432",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6379,6 +6569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3141",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -6403,6 +6594,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "433",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6427,6 +6619,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3142",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -6451,6 +6644,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "434",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6475,6 +6669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3245",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -6499,6 +6694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3235",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -6523,6 +6719,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3143",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6547,6 +6744,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3143",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -6571,6 +6769,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "435",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6595,6 +6794,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3246",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6619,6 +6819,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3246",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -6643,6 +6844,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3236",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6667,6 +6869,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3236",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -6691,6 +6894,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3144",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6715,6 +6919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3144",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -6739,6 +6944,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3247",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6763,6 +6969,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3237",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6787,6 +6994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3247",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -6811,6 +7019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3237",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -6835,6 +7044,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3145",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6859,6 +7069,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3145",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -6883,6 +7094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3248",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6907,6 +7119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3238",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -6931,6 +7144,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3146",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -6955,6 +7169,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3146",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -6979,6 +7194,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3249",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7003,6 +7219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3239",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7027,6 +7244,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3147",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7051,6 +7269,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3147",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7075,6 +7294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3250",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7099,6 +7319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3240",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7123,6 +7344,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "439",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7147,6 +7369,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3148",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7171,6 +7394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3251",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7195,6 +7419,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3241",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7219,6 +7444,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "440",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7243,6 +7469,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "440",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7267,6 +7494,32 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
+      "groundstation": "CL01-04",
+      "station_code": "CL01-04",
+      "station_mode": "CL01-04 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-10-30T19:07:56.037000+00:00",
+      "los": "2026-10-30T19:16:19.367000+00:00",
+      "aos_doy": "2026/303-19:07:56",
+      "los_doy": "2026/303-19:16:19",
+      "aos_time": "19:07:56",
+      "los_time": "19:16:19",
+      "aos_mt": "13:07:56",
+      "doy": "2026/303",
+      "duration_min": "8.4 min",
+      "peak_elevation": "24.0\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
+      "spacecraft": "COSMO",
+      "orbit_number": "3252",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -7291,6 +7544,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3242",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -7315,6 +7569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3252",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7339,6 +7594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3242",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7363,6 +7619,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "441",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7387,6 +7644,32 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "--",
+      "groundstation": "CL01-02",
+      "station_code": "CL01-02",
+      "station_mode": "CL01-02 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-10-30T20:41:36.939000+00:00",
+      "los": "2026-10-30T20:50:31.976000+00:00",
+      "aos_doy": "2026/303-20:41:36",
+      "los_doy": "2026/303-20:50:31",
+      "aos_time": "20:41:36",
+      "los_time": "20:50:31",
+      "aos_mt": "14:41:36",
+      "doy": "2026/303",
+      "duration_min": "8.9 min",
+      "peak_elevation": "36.7\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
+      "spacecraft": "COSMO",
+      "orbit_number": "3253",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -7411,6 +7694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3243",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7435,6 +7719,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3253",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7459,6 +7744,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3243",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7483,6 +7769,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "442",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7507,6 +7794,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3254",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -7531,6 +7819,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3254",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7555,6 +7844,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3244",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -7579,6 +7869,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3244",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7603,6 +7894,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "443",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7627,6 +7919,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3255",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7651,6 +7944,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3245",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7675,6 +7969,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "444",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7699,6 +7994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3256",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7723,6 +8019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3246",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7747,6 +8044,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "445",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7771,6 +8069,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "446",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -7795,6 +8094,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "446",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7819,6 +8119,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "447",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7843,6 +8144,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "447",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -7867,6 +8169,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3156",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7891,6 +8194,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "448",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -7915,6 +8219,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "448",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7939,6 +8244,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3157",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -7963,6 +8269,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "449",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -7987,6 +8294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3260",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -8011,6 +8319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3250",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -8035,6 +8344,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3158",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -8059,6 +8369,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3158",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8083,6 +8394,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "450",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8107,6 +8419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3261",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8131,6 +8444,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3261",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -8155,6 +8469,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3251",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8179,6 +8494,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3251",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -8203,6 +8519,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3159",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8227,6 +8544,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3159",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -8251,6 +8569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3262",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8275,6 +8594,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3262",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -8299,6 +8619,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3252",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8323,6 +8644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3252",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -8347,6 +8669,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3160",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8371,6 +8694,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3160",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -8395,6 +8719,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3263",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8419,6 +8744,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3253",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8443,6 +8769,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3161",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8467,6 +8794,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3161",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -8491,6 +8819,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3264",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8515,6 +8844,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3254",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8539,6 +8869,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3162",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8563,6 +8894,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3162",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -8587,6 +8919,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3265",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8611,6 +8944,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3255",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8635,6 +8969,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "454",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -8659,6 +8994,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3163",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8683,6 +9019,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3266",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8707,6 +9044,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3256",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8731,6 +9069,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "455",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8755,6 +9094,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "455",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -8779,6 +9119,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3267",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -8803,6 +9144,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3257",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -8827,6 +9169,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3267",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8851,6 +9194,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3257",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8875,6 +9219,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "456",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8899,6 +9244,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3268",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -8923,6 +9269,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3258",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -8947,6 +9294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3268",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -8971,6 +9319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3258",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -8995,6 +9344,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "457",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9019,6 +9369,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3269",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -9043,6 +9394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3269",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9067,6 +9419,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3259",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9091,6 +9444,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3259",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9115,6 +9469,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "458",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9139,6 +9494,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3270",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9163,6 +9519,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3260",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9187,6 +9544,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "459",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9211,6 +9569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3271",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9235,6 +9594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3261",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9259,6 +9619,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "460",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9283,6 +9644,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "461",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9307,6 +9669,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "461",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9331,6 +9694,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "462",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -9355,6 +9719,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "462",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9379,6 +9744,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3171",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9403,6 +9769,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "463",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -9427,6 +9794,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "463",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9451,6 +9819,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3172",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -9475,6 +9844,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "464",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9499,6 +9869,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3275",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -9523,6 +9894,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3265",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -9547,6 +9919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3173",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9571,6 +9944,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3173",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9595,6 +9969,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "465",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9619,6 +9994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3276",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9643,6 +10019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3266",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -9667,6 +10044,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3174",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9691,6 +10069,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3174",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -9715,6 +10094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3277",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9739,6 +10119,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3277",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -9763,6 +10144,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3267",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9787,6 +10169,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3267",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9811,6 +10194,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3175",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9835,6 +10219,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3175",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -9859,6 +10244,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3278",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9883,6 +10269,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3268",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -9907,6 +10294,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3176",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9931,6 +10319,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3176",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -9955,6 +10344,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3279",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -9979,6 +10369,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3269",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10003,6 +10394,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3177",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10027,6 +10419,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3177",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -10051,6 +10444,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3280",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10075,6 +10469,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3270",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10099,6 +10494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "469",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -10123,6 +10519,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3178",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10147,6 +10544,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3281",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10171,6 +10569,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3271",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10195,6 +10594,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "470",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10219,6 +10619,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "470",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -10243,6 +10644,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3179",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10267,6 +10669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3282",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10291,6 +10694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3272",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10315,6 +10719,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "471",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10339,6 +10744,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "471",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -10363,6 +10769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3283",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -10387,6 +10794,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3273",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -10411,6 +10819,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3283",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10435,6 +10844,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3273",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10459,6 +10869,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "472",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10483,6 +10894,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3284",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -10507,6 +10919,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3274",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -10531,6 +10944,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3284",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10555,6 +10969,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3274",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10579,6 +10994,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "473",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10603,6 +11019,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3285",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10627,6 +11044,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3275",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10651,6 +11069,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "474",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10675,6 +11094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3286",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10699,6 +11119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3276",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10723,6 +11144,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "475",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10747,6 +11169,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3287",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10771,6 +11194,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "476",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -10795,6 +11219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3277",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10819,6 +11244,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "476",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -10843,6 +11269,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "477",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -10867,6 +11294,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "477",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10891,6 +11319,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3186",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -10915,6 +11344,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "478",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -10939,6 +11369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "478",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -10963,6 +11394,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3187",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -10987,6 +11419,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "479",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11011,6 +11444,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3188",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -11035,6 +11469,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3188",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11059,6 +11494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "480",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11083,6 +11519,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3291",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -11107,6 +11544,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3281",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -11131,6 +11569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3189",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11155,6 +11594,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3189",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -11179,6 +11619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3292",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11203,6 +11644,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3292",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -11227,6 +11669,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3282",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11251,6 +11694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3282",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -11275,6 +11719,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3190",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11299,6 +11744,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3190",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -11323,6 +11769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3293",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11347,6 +11794,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3283",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11371,6 +11819,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3191",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11395,6 +11844,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3191",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -11419,6 +11869,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3294",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11443,6 +11894,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3284",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11467,6 +11919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3192",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11491,6 +11944,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3192",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -11515,6 +11969,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3295",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11539,6 +11994,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3285",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11563,6 +12019,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "484",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -11587,6 +12044,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3193",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11611,6 +12069,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3296",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11635,6 +12094,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3286",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11659,6 +12119,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "485",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11683,6 +12144,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "485",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -11707,6 +12169,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3194",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11731,6 +12194,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3297",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11755,6 +12219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3287",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11779,6 +12244,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "486",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11803,6 +12269,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "486",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -11827,6 +12294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3298",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -11851,6 +12319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3288",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -11875,6 +12344,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3298",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11899,6 +12369,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3288",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -11923,6 +12394,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "487",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -11947,6 +12419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3299",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -11971,6 +12444,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3289",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -11995,6 +12469,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3299",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12019,6 +12494,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3289",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12043,6 +12519,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "488",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12067,6 +12544,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3300",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12091,6 +12569,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3290",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12115,6 +12594,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "489",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12139,6 +12619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3301",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12163,6 +12644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3291",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12187,6 +12669,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "490",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12211,6 +12694,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3302",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12235,6 +12719,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3292",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12259,6 +12744,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "491",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -12283,6 +12769,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "491",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12307,6 +12794,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "492",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -12331,6 +12819,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "492",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12355,6 +12844,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3201",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -12379,6 +12869,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "493",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -12403,6 +12894,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "493",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12427,6 +12919,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3202",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -12451,6 +12944,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "494",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12475,6 +12969,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3203",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -12499,6 +12994,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3203",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12523,6 +13019,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "495",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12547,6 +13044,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3306",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -12571,6 +13069,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3296",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -12595,6 +13094,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3204",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12619,6 +13119,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3204",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -12643,6 +13144,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3307",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12667,6 +13169,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3307",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -12691,6 +13194,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3297",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12715,6 +13219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3297",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -12739,6 +13244,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3205",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12763,6 +13269,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3205",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -12787,6 +13294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3308",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12811,6 +13319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3298",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12835,6 +13344,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3206",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12859,6 +13369,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3206",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -12883,6 +13394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3309",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12907,6 +13419,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3299",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -12931,6 +13444,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3207",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -12955,6 +13469,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3207",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -12979,6 +13494,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3310",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13003,6 +13519,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3300",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13027,6 +13544,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "499",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -13051,6 +13569,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3208",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13075,6 +13594,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3208",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -13099,6 +13619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3311",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13123,6 +13644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3301",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13147,6 +13669,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "500",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -13171,6 +13694,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3209",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13195,6 +13719,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3312",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13219,6 +13744,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3302",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13243,6 +13769,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "501",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13267,6 +13794,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "501",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -13291,6 +13819,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3313",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -13315,6 +13844,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3303",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -13339,6 +13869,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3313",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13363,6 +13894,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3303",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13387,6 +13919,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "502",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13411,6 +13944,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3314",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -13435,6 +13969,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3304",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -13459,6 +13994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3314",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13483,6 +14019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3304",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13507,6 +14044,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "503",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13531,6 +14069,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3315",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -13555,6 +14094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3315",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13579,6 +14119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3305",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -13603,6 +14144,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3305",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13627,6 +14169,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "504",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13651,6 +14194,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3316",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13675,6 +14219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3306",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13699,6 +14244,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "505",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13723,6 +14269,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3317",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13747,6 +14294,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3307",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13771,6 +14319,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "506",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13795,6 +14344,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "507",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -13819,6 +14369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "507",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13843,6 +14394,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3216",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -13867,6 +14419,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "508",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -13891,6 +14444,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "508",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -13915,6 +14469,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3217",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -13939,6 +14494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "509",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -13963,6 +14519,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3218",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -13987,6 +14544,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "510",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14011,6 +14569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3321",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14035,6 +14594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3311",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -14059,6 +14619,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3219",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14083,6 +14644,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3219",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14107,6 +14669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3322",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14131,6 +14694,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "511",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14155,6 +14719,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3322",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -14179,6 +14744,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3312",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14203,6 +14769,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3312",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -14227,6 +14794,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3220",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14251,6 +14819,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3220",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14275,6 +14844,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3323",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14299,6 +14869,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3313",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14323,6 +14894,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3323",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14347,6 +14919,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3313",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14371,6 +14944,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3221",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14395,6 +14969,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3221",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -14419,6 +14994,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3324",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14443,6 +15019,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3314",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14467,6 +15044,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3222",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14491,6 +15069,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3222",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -14515,6 +15094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3325",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14539,6 +15119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3315",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14563,6 +15144,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3223",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14587,6 +15169,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3223",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14611,6 +15194,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3326",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14635,6 +15219,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3316",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14659,6 +15244,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "515",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -14683,6 +15269,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3224",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14707,6 +15294,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3327",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14731,6 +15319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3317",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14755,6 +15344,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "516",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14779,6 +15369,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "516",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -14803,6 +15394,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3328",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14827,6 +15419,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3318",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -14851,6 +15444,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3328",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14875,6 +15469,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3318",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -14899,6 +15494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "517",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14923,6 +15519,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3329",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -14947,6 +15544,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3319",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -14971,6 +15569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3329",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -14995,6 +15594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3319",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15019,6 +15619,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "518",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15043,6 +15644,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3330",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -15067,6 +15669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3330",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15091,6 +15694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3320",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15115,6 +15719,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3320",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15139,6 +15744,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "519",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15163,6 +15769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3331",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15187,6 +15794,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3321",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15211,6 +15819,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "520",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15235,6 +15844,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3332",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15259,6 +15869,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3322",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15283,6 +15894,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "521",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15307,6 +15919,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "522",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15331,6 +15944,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "522",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15355,6 +15969,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3231",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -15379,6 +15994,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "523",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -15403,6 +16019,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "523",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15427,6 +16044,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3232",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15451,6 +16069,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "524",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15475,6 +16094,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3233",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15499,6 +16119,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "525",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15523,6 +16144,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3336",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -15547,6 +16169,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3326",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15571,6 +16194,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3234",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15595,6 +16219,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3234",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -15619,6 +16244,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3337",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15643,6 +16269,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3337",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15667,6 +16294,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "526",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15691,6 +16319,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3327",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15715,6 +16344,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3327",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP SBD",
@@ -15739,6 +16369,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3235",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15763,6 +16394,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3235",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -15787,6 +16419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3338",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15811,6 +16444,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3328",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15835,6 +16469,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3338",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15859,6 +16494,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3328",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -15883,6 +16519,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3236",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15907,6 +16544,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3236",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -15931,6 +16569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3339",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -15955,6 +16594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3329",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -15979,6 +16619,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3237",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16003,6 +16644,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3237",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -16027,6 +16669,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3340",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16051,6 +16694,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3330",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16075,6 +16719,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3238",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16099,6 +16744,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3238",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -16123,6 +16769,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3341",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16147,6 +16794,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3331",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16171,6 +16819,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "530",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -16195,6 +16844,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3239",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16219,6 +16869,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3342",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16243,6 +16894,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3332",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16267,6 +16919,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "531",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16291,6 +16944,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "531",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -16315,6 +16969,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3343",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16339,6 +16994,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3333",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16363,6 +17019,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3343",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16387,6 +17044,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3333",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16411,6 +17069,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "532",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16435,6 +17094,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3344",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16459,6 +17119,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3334",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF+SBD",
@@ -16483,6 +17144,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3344",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16507,6 +17169,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3334",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16531,6 +17194,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "533",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16555,6 +17219,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3345",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16579,6 +17244,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3335",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -16603,6 +17269,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3345",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16627,6 +17294,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3335",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16651,6 +17319,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "534",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16675,6 +17344,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3346",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16699,6 +17369,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3336",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16723,6 +17394,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "535",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16747,6 +17419,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3347",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16771,6 +17444,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3337",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16795,6 +17469,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "536",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16819,6 +17494,7 @@
     },
     {
       "spacecraft": "SPRITE",
+      "orbit_number": "537",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP UHF",
@@ -16843,6 +17519,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3246",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16867,6 +17544,7 @@
     },
     {
       "spacecraft": "CANVAS",
+      "orbit_number": "3249",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16891,6 +17569,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3351",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16915,6 +17594,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3341",
       "groundstation": "BOULDER",
       "station_code": "LASP",
       "station_mode": "LASP DELETED",
@@ -16939,6 +17619,7 @@
     },
     {
       "spacecraft": "COSMO",
+      "orbit_number": "3353",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF DELETED",
@@ -16963,6 +17644,7 @@
     },
     {
       "spacecraft": "AEPEX",
+      "orbit_number": "3343",
       "groundstation": "FAIRBANKS",
       "station_code": "UAF",
       "station_mode": "UAF UHF",
@@ -16986,5 +17668,5 @@
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-10-27T06:01:04+00:00"
+  "published_at": "2026-10-27T20:18:37+00:00"
 }
