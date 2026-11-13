@@ -63,6 +63,26 @@ function formatUtcHms(date) {
   return `${String(date.getUTCHours()).padStart(2, '0')}:${String(date.getUTCMinutes()).padStart(2, '0')}:${String(date.getUTCSeconds()).padStart(2, '0')}`;
 }
 
+function formatUtcDoyTime(iso) {
+  const date = new Date(iso);
+  const yearStart = Date.UTC(date.getUTCFullYear(), 0, 1);
+  const doy = Math.floor((date.getTime() - yearStart) / 86400000) + 1;
+  return `${String(doy).padStart(3, '0')}-${formatUtcHms(date)}`;
+}
+
+function formatMountainAos(iso, timeZone) {
+  const parts = Object.fromEntries(new Intl.DateTimeFormat('en-US', {
+    timeZone,
+    month: '2-digit',
+    day: '2-digit',
+    hour: '2-digit',
+    minute: '2-digit',
+    second: '2-digit',
+    hourCycle: 'h23',
+  }).formatToParts(new Date(iso)).map(part => [part.type, part.value]));
+  return `${parts.month}/${parts.day}-${parts.hour}:${parts.minute}:${parts.second}`;
+}
+
 function formatMountainLabel(date, timeZone) {
   const formatter = new Intl.DateTimeFormat('en-US', {
     timeZone,
@@ -240,17 +260,16 @@ function buildDisplayState(snapshot, nowMs) {
       events: windowEvents,
     },
     table: {
-      columns: ['S/C', 'ORBIT', 'GS', 'DOY', 'AOS (MT)', 'AOS (UTC)', 'LOS (UTC)', 'ELEV', 'AZ', 'IN SUN?'],
-      col_widths: [10, 7, 16, 9, 9, 9, 9, 7, 9, 7],
+      columns: ['S/C', 'ORBIT', 'GS', 'AOS (MT)', 'AOS (UTC)', 'LOS (UTC)', 'ELEV', 'AZ', 'IN SUN?'],
+      col_widths: [10, 7, 16, 14, 12, 12, 7, 9, 7],
       rows: tableEvents.map(event => ({
         cells: [
           event.spacecraft,
           event.orbit_number,
           event.station_mode,
-          event.doy,
-          event.aos_mt,
-          event.aos_time,
-          event.los_time,
+          formatMountainAos(event.aos, snapshot.mountain_tz || 'America/Denver'),
+          formatUtcDoyTime(event.aos),
+          formatUtcDoyTime(event.los),
           event.peak_elevation,
           event.az_path,
           event.in_sun,
