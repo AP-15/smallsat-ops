@@ -1,6 +1,6 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-11-17T23:11:41.908674+00:00",
+  "server_now": "2026-11-19T06:01:02.180415+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
@@ -1141,31 +1141,6 @@
       "color": "#bada55",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
-    },
-    {
-      "spacecraft": "COSMO",
-      "orbit_number": "--",
-      "groundstation": "CL01-04",
-      "station_code": "CL01-04",
-      "station_mode": "CL01-04 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-11-16T20:08:48.487000+00:00",
-      "los": "2026-11-16T20:18:11.019000+00:00",
-      "aos_doy": "2026/320-20:08:48",
-      "los_doy": "2026/320-20:18:11",
-      "aos_time": "20:08:48",
-      "los_time": "20:18:11",
-      "aos_mt": "13:08:48",
-      "doy": "2026/320",
-      "duration_min": "9.4 min",
-      "peak_elevation": "80.5\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
     },
     {
       "spacecraft": "COSMO",
@@ -8243,6 +8218,31 @@
       "is_leafspace": false
     },
     {
+      "spacecraft": "COSMO",
+      "orbit_number": "--",
+      "groundstation": "IS01-05",
+      "station_code": "IS01-05",
+      "station_mode": "IS01-05 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-11-21T03:31:55.529000+00:00",
+      "los": "2026-11-21T03:39:46.210000+00:00",
+      "aos_doy": "2026/325-03:31:55",
+      "los_doy": "2026/325-03:39:46",
+      "aos_time": "03:31:55",
+      "los_time": "03:39:46",
+      "aos_mt": "20:31:55",
+      "doy": "2026/325",
+      "duration_min": "7.8 min",
+      "peak_elevation": "19.1\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
       "spacecraft": "SPRITE",
       "orbit_number": "765",
       "groundstation": "BOULDER",
@@ -9166,6 +9166,31 @@
       "color": "#777777",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
+    },
+    {
+      "spacecraft": "COSMO",
+      "orbit_number": "--",
+      "groundstation": "CL01-01",
+      "station_code": "CL01-01",
+      "station_mode": "CL01-01 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-11-21T20:08:51.899000+00:00",
+      "los": "2026-11-21T20:18:14.640000+00:00",
+      "aos_doy": "2026/325-20:08:51",
+      "los_doy": "2026/325-20:18:14",
+      "aos_time": "20:08:51",
+      "los_time": "20:18:14",
+      "aos_mt": "13:08:51",
+      "doy": "2026/325",
+      "duration_min": "9.4 min",
+      "peak_elevation": "80.7\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
     },
     {
       "spacecraft": "SPRITE",
@@ -11268,5 +11293,5 @@
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-11-17T23:11:43+00:00"
+  "published_at": "2026-11-19T06:01:04+00:00"
 }
