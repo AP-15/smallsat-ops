@@ -1,6 +1,6 @@
 {
   "refresh_ms": 1000,
-  "server_now": "2026-11-23T16:29:04.860643+00:00",
+  "server_now": "2026-11-25T06:01:01.641065+00:00",
   "mountain_tz": "America/Denver",
   "filters": {
     "missions": [
@@ -5793,31 +5793,6 @@
       "is_leafspace": false
     },
     {
-      "spacecraft": "COSMO",
-      "orbit_number": "--",
-      "groundstation": "CL01-04",
-      "station_code": "CL01-04",
-      "station_mode": "CL01-04 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-11-22T19:49:56.560000+00:00",
-      "los": "2026-11-22T19:59:17.507000+00:00",
-      "aos_doy": "2026/326-19:49:56",
-      "los_doy": "2026/326-19:59:17",
-      "aos_time": "19:49:56",
-      "los_time": "19:59:17",
-      "aos_mt": "12:49:56",
-      "doy": "2026/326",
-      "duration_min": "9.3 min",
-      "peak_elevation": "64.1\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
-    },
-    {
       "spacecraft": "SPRITE",
       "orbit_number": "790",
       "groundstation": "FAIRBANKS",
@@ -5941,31 +5916,6 @@
       "color": "#777777",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
-    },
-    {
-      "spacecraft": "COSMO",
-      "orbit_number": "--",
-      "groundstation": "CL01-01",
-      "station_code": "CL01-01",
-      "station_mode": "CL01-01 SBD",
-      "filter_station": "LEAF SPACE",
-      "aos": "2026-11-22T21:24:20.208000+00:00",
-      "los": "2026-11-22T21:31:41.746000+00:00",
-      "aos_doy": "2026/326-21:24:20",
-      "los_doy": "2026/326-21:31:41",
-      "aos_time": "21:24:20",
-      "los_time": "21:31:41",
-      "aos_mt": "14:24:20",
-      "doy": "2026/326",
-      "duration_min": "7.4 min",
-      "peak_elevation": "16.4\u00b0",
-      "az_path": "--\u2192--",
-      "in_sun": "YES",
-      "mode": "SBD",
-      "deleted": false,
-      "color": "#b88df7",
-      "source_file": "passes_leafspace.pkl",
-      "is_leafspace": true
     },
     {
       "spacecraft": "SPRITE",
@@ -13868,6 +13818,31 @@
       "is_leafspace": false
     },
     {
+      "spacecraft": "COSMO",
+      "orbit_number": "--",
+      "groundstation": "CL01-02",
+      "station_code": "CL01-02",
+      "station_mode": "CL01-02 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-11-27T19:49:26.782000+00:00",
+      "los": "2026-11-27T19:58:48.073000+00:00",
+      "aos_doy": "2026/331-19:49:26",
+      "los_doy": "2026/331-19:58:48",
+      "aos_time": "19:49:26",
+      "los_time": "19:58:48",
+      "aos_mt": "12:49:26",
+      "doy": "2026/331",
+      "duration_min": "9.3 min",
+      "peak_elevation": "63.2\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
+    },
+    {
       "spacecraft": "SPRITE",
       "orbit_number": "866",
       "groundstation": "FAIRBANKS",
@@ -14016,6 +13991,31 @@
       "color": "#00d7ff",
       "source_file": "passes_manual.pkl",
       "is_leafspace": false
+    },
+    {
+      "spacecraft": "COSMO",
+      "orbit_number": "--",
+      "groundstation": "CL01-01",
+      "station_code": "CL01-01",
+      "station_mode": "CL01-01 SBD",
+      "filter_station": "LEAF SPACE",
+      "aos": "2026-11-27T21:23:49.535000+00:00",
+      "los": "2026-11-27T21:31:13.760000+00:00",
+      "aos_doy": "2026/331-21:23:49",
+      "los_doy": "2026/331-21:31:13",
+      "aos_time": "21:23:49",
+      "los_time": "21:31:13",
+      "aos_mt": "14:23:49",
+      "doy": "2026/331",
+      "duration_min": "7.4 min",
+      "peak_elevation": "16.7\u00b0",
+      "az_path": "--\u2192--",
+      "in_sun": "YES",
+      "mode": "SBD",
+      "deleted": false,
+      "color": "#b88df7",
+      "source_file": "passes_leafspace.pkl",
+      "is_leafspace": true
     },
     {
       "spacecraft": "SPRITE",
@@ -19493,5 +19493,5 @@
       "is_leafspace": false
     }
   ],
-  "published_at": "2026-11-23T16:29:07+00:00"
+  "published_at": "2026-11-25T06:01:04+00:00"
 }
